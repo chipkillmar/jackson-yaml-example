@@ -1,0 +1,34 @@
+---
+firstName: Bruce
+lastName: Wayne
+emailAddress: bwayne@example.com
+notes: |
+  Great customer!
+  Has promoted us several times on Twitter.
+  Is terrified of bats.
+address:
+  street: 604 Brazos St.
+  city: Austin
+  state: TX
+  zip: 78701
+---
+firstName: Clark
+lastName: Kent
+emailAddress: ckent@example.com
+notes:
+address:
+  street: Embarcadero
+  city: San Francisco
+  state: CA
+  zip: 94111
+---
+firstName: Diana
+lastName: Prince
+emailAddress: dprince@example.com
+notes: |
+  Wants to know when we have more invisible jets in stock.
+address:
+  street: One South County Rd.
+  city: Palm Beach
+  state: FL
+  zip: 33480

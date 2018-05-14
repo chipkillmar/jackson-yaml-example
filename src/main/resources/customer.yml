@@ -1,0 +1,12 @@
+firstName: Bruce
+lastName: Wayne
+emailAddress: bwayne@example.com
+notes: |
+  Great customer!
+  Has promoted us several times on Twitter.
+  Is terrified of bats.
+address:
+  street: 604 Brazos St.
+  city: Austin
+  state: TX
+  zip: 78701
